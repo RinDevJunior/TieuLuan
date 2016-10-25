@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TieuLuanCNPM</string>
+    <string name="title_activity_topic_">Topic_Activity</string>
+    <string name="title_activity_word_">Word_Activity</string>
+</resources>
